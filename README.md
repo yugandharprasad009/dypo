@@ -17,7 +17,7 @@ My hands-on approach combines software logic with hardware design, leading to in
 
 ## 🌐 Live Demo
 
-🚀 [Visit My Website](#) *(Replace with your GitHub Pages/hosted URL)*
+🚀 [Visit My Website](https://myportfoliodypoa22126512142.on.drv.tw/www.dypo.com/) *(Replace with your GitHub Pages/hosted URL)*
 
 ---
 
@@ -73,8 +73,8 @@ Languages, Tools, and Platforms I frequently work with:
 
 ## 🔗 Connect with Me
 
-[![LinkedIn]()](https://www.linkedin.com/in/dandu-yugandra-prasad-3ba809331)  
-[![Instagram]()](https://www.instagram.com/dyp_o_thinker)
+[[LinkedIn](https://www.linkedin.com/in/dandu-yugandra-prasad-3ba809331)  
+[Instagram](https://www.instagram.com/dyp_o_thinker)
 
 ---
 
