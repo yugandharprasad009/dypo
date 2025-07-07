@@ -72,8 +72,8 @@ Languages, Tools, and Platforms I frequently work with:
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/dandu-yugandra-prasad-3ba809331)  
-[![Instagram](instagram.png)](https://www.instagram.com/dyp_o_thinker)
+[![LinkedIn]()](https://www.linkedin.com/in/dandu-yugandra-prasad-3ba809331)  
+[![Instagram]()](https://www.instagram.com/dyp_o_thinker)
 
 ---
 
