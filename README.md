@@ -33,8 +33,8 @@ My hands-on approach combines software logic with hardware design, leading to in
 
 ## 📸 Preview
 
-![screenshot](screenshot(41).png)
-![screenshot](screenshot(42).png)<!-- Add a preview image of your webpage -->
+![screenshot](Screenshot(41).png)
+![screenshot](Screenshot(42).png)<!-- Add a preview image of your webpage -->
 
 ---
 
